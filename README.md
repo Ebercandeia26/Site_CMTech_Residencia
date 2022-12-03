@@ -25,7 +25,6 @@ Desenvolver um sistema de atendimento aos funcionário da CMTECH, onde os mesmos
 
 Digitar o comando "npm start" ou caso não funcione, digitar "npm run start" e a aplicação será aberta no navegador.
 
-<br><br>
 <li>Para clonar o repositório escreva o comando abaixo: </li> <br>
 git clone https://github.com/Ebercandeia26/Site_CMTech_Residencia.git
 
