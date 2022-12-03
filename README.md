@@ -12,16 +12,21 @@ Desenvolver um sistema de atendimento aos funcionário da CMTECH, onde os mesmos
 <li><b>Figma:</b> Editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop. </li>
 
 <h3> ⚙ Especificaçõe do Projeto: </h3>
-- O projeto foi desenvolvido em React/JS utilizando o MUI para pegarmos componentes de Design. <br><br>
-- O projeto possui rotas navegáveis(Login e Cadastro), onde favore na experiência do usuário. <br><br>
-- O usuário (funcionário) irá entrar com o domínio "admin@mexx.com", e a senha de sua escolha. <br><br>
-- O usuário (cliente) irá entrar com o domínio: "teste@teste.com", e a senha de sua escolha. <br><br>
+- O projeto foi desenvolvido em React/JS utilizando o Framework de CSS o MUI para utilizarmos componentes de Estlização. <br><br>
+- O projeto possui rotas navegáveis(Login e Cadastro), onde favorece na experiência do usuário. <br><br>
+- O usuário (funcionário) para poder acessar a aplicação , irá entrar com o domínio "admin@mexx.com", e a senha de sua escolha. <br><br>
+- O usuário (cliente) para poder acessar a aplicação , irá entrar com o domínio: "teste@teste.com", e a senha de sua escolha. <br><br>
+- O usúario (funcionário) tem permissões de acesso, que o cliente não tem!
 - Cada funcionário terá seu respectivo cargo/pefil no sistema, com suas permissões necessárias para o atendimento.
 
 
 
 <h3>🏃 Como executar o projeto:  </h3>
 
+Digitar o comando "npm start" ou caso não funcione, digitar "npm run start" e a aplicação será aberta no navegador.
+
 <br><br>
 <li>Para clonar o repositório escreva o comando abaixo: </li> <br>
-git clone https://github.com/Silassousa-cod/residencia_pd_cmtech.git
+git clone https://github.com/Ebercandeia26/Site_CMTech_Residencia.git
+
+<h3>Grupo 6: Éber Candeia, Bruna Beatriz, Silas Emanuel, Fabyane Nayara, Edivaldo Coelho</h3>
